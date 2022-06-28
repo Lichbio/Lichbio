@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lichbio
+- 👋 Hi, I’m Lich Nguyen
 - 👀 I’m interested in maths, statistics, data science, industry, medicine
 - 🌱 I’m currently focusing on data science
 - 💞️ I’m looking forward to your collaboration
