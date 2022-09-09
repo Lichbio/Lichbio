@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lich Nguyen
-- 👀 I’m interested in medicine, application in medicine
+- 👀 I’m interested in health research, application in medicine
 - 🌱 I’m currently focusing on data science and statistics
 - 💞️ I’m looking forward to your collaboration
 - 📫 Reach me at ntlich85@gmail.com/ lichbio@gmail.com
