@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lich Nguyen
-- 👀 I’m interested in health research
-- 🌱 I’m currently focusing on data science and statistics
+- 👀 I have been worked and interested in health fields
+- 🌱 I’m currently focusing on data science and machine learning
 - 📫 Reach me at ntlich85@gmail.com
 
 <!---
